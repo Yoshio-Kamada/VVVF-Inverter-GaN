@@ -7,6 +7,7 @@ Transphorm製のGaNFETを使ったドレミファインバーターの簡易版�
 100v以上の電圧を印加しないでください。
 本リポジトリは、GaN三相インバータ設計の学習・研究のための記録です。
 ![本体](https://github.com/Yoshio-Kamada/VVVF-Inverter-GaN/blob/main/IMG_2794.JPG)
+![pcb](https://github.com/Yoshio-Kamada/VVVF-Inverter-GaN/blob/main/PCB_PCB_3phase-inverter_2026-01-07.jpg)
 
 
 
