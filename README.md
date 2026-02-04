@@ -13,11 +13,9 @@ Transphorm製のGaNFETを使ったドレミファインバーターの簡易版�
 
 本プロジェクトの制御プログラムは、三相インバータ制御の参考として公開されている  
 [naoto64/Three-phase-inverter](https://github.com/naoto64/Three-phase-inverter) をベースにしています。  
-このリポジトリには AC100V 三相インバータの動作コードが格納されており、MIT ライセンスで公開されています。:contentReference[oaicite:1]{index=1}
+同リポジトリには AC100V 三相インバータの動作コードが MIT ライセンスで公開されており、`VVVF‑Inverter‑GaN` 側ではこれを GaN デバイス向けに改変・最適化しています。
 
-`VVVF‑Inverter‑GaN` 側ではこのコードを元に、GaN デバイス向けに改変・最適化を行っています。
-
-元コードの内容やライセンス条項については、参照元リポジトリの README や LICENSE を確認してください。
+元コードの詳細やライセンス条項については、参照元リポジトリの README および LICENSE をご確認ください。
 
 
 
