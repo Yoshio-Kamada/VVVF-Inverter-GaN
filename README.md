@@ -9,6 +9,15 @@ Transphorm製のGaNFETを使ったドレミファインバーターの簡易版�
 マイコン側とゲートドライバと主回路はフォトカプラと絶縁コンバーター＋ブートストラップで絶縁しました。
 主回路部分はパターンを太くしました。
 ![pcb](https://github.com/Yoshio-Kamada/VVVF-Inverter-GaN/blob/main/PCB_PCB_3phase-inverter_2026-01-07.jpg)
+## プログラムコードの参照元について
+
+本プロジェクトの制御プログラムは、三相インバータ制御の参考として公開されている  
+[naoto64/Three-phase-inverter](https://github.com/naoto64/Three-phase-inverter) をベースにしています。  
+このリポジトリには AC100V 三相インバータの動作コードが格納されており、MIT ライセンスで公開されています。:contentReference[oaicite:1]{index=1}
+
+`VVVF‑Inverter‑GaN` 側ではこのコードを元に、GaN デバイス向けに改変・最適化を行っています。
+
+元コードの内容やライセンス条項については、参照元リポジトリの README や LICENSE を確認してください。
 
 
 
